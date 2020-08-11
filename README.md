@@ -20,13 +20,11 @@ Machine Learning algorithms (sklearn) used in this projects,
 
 ## After Hyperparameters tuning, the best Machine Learning Ensemble Score is 89% 
 
-Checkout the ML based classifiers part-1 (Data Collection) at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/SENTIMENT-ANALYSIS-ON-TWITTER-POSTS-USING-ML-AND-DL/blob/master/codes%20(ML)/Part-1%20-%20TWITTER%20-%20Sentiment%20Analysis%20-%20DATA%20SEGREGATION%20AND%20DATA%20PREPROCESSING.ipynb) and part-2 (Training and Testing) at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/SENTIMENT-ANALYSIS-ON-TWITTER-POSTS-USING-ML-AND-DL/blob/master/codes%20(ML)/Part-2%20-%20TWITTER%20-%20Sentiment%20Analysis%20-%20Training%20and%20Testing.ipynb) and part-3 (Start predicting) at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/SENTIMENT-ANALYSIS-ON-TWITTER-POSTS-USING-ML-AND-DL/blob/master/codes%20(ML)/Part-3%20-%20TWITTER%20-%20Sentiment%20Analysis%20-%20Single%20Prediction%20Check.ipynb).
+Checkout the ML based classifiers part-1 (Data Collection) here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/SENTIMENT-ANALYSIS-ON-TWITTER-POSTS-USING-ML-AND-DL/blob/master/codes%20(ML)/Part-1%20-%20TWITTER%20-%20Sentiment%20Analysis%20-%20DATA%20SEGREGATION%20AND%20DATA%20PREPROCESSING.ipynb) and part-2 (Training and Testing) here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/SENTIMENT-ANALYSIS-ON-TWITTER-POSTS-USING-ML-AND-DL/blob/master/codes%20(ML)/Part-2%20-%20TWITTER%20-%20Sentiment%20Analysis%20-%20Training%20and%20Testing.ipynb) and part-3 (Start predicting) here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/SENTIMENT-ANALYSIS-ON-TWITTER-POSTS-USING-ML-AND-DL/blob/master/codes%20(ML)/Part-3%20-%20TWITTER%20-%20Sentiment%20Analysis%20-%20Single%20Prediction%20Check.ipynb).
 
 
 # DEEP LEARNING
-## CNN + WORD EMBEDDINGS
-
-- The Deep Learning (CNN + W_Embedding) Scores are : Training Accuracy: 0.9245 & Testing Accuracy:  0.8783
+## CNN + WORD EMBEDDINGS Scores are : Training Accuracy: 0.9245 & Testing Accuracy:  0.8783
 
 Checkout the DL based classifier at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/SENTIMENT-ANALYSIS-ON-TWITTER-POSTS-USING-ML-AND-DL/blob/master/codes%20(DL)/Sentiment%20Analysis%20-%20TWITTER%20-%201-D%20CNN%20with%20Word%20Embeddings.ipynb)
 
